@@ -1,3 +1,3 @@
 # OlenaRedPanda
 
-Read me file
+Read me file. Read this file
